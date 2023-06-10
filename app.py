@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import openpyxl as xl
 from PIL import Image
 
 st.set_page_config(page_title='Hasil Survey')
